@@ -1,8 +1,4 @@
-<h1 align="center">
-  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"> Frontend
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30"> Backend & Database
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077b6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+%26+Next.js+Specialist;Prisma+%26+PostgreSQL+Expert;International+Remote+Developer" alt="Typing SVG" />
