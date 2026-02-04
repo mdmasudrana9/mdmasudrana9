@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=header&text=Md%20Masud%20Rana&fontSize=50&animation=fadeIn" alt="Md Masud Rana" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077b6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+%26+Next.js+Specialist;Prisma+%26+PostgreSQL+Expert;International+Remote+Developer" alt="Typing SVG" />
@@ -30,14 +32,14 @@ I’m a **Full-Stack Developer** with strong computer science fundamentals and h
 
 ## 🛠 Tech Stack
 
-### <img src="https://media.giphy.com/media/WUnT7otDc8oyoE8p9y/giphy.gif" width="25"> Frontend
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25"> Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 
-### <img src="https://media.giphy.com/media/kdFc8fub96v3CMeI0a/giphy.gif" width="25"> Backend & Database
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25"> Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
