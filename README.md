@@ -27,7 +27,7 @@
 I’m a **Full-Stack Developer** with strong computer science fundamentals and hands-on experience building scalable, secure, and high-performance web applications using modern technologies.
 
 - 💡 Worked with **international remote teams** (Singapore based).
-- 🏆 **3rd Position** in Inter-University Programming Contest.
+-
 - 🎓 Led student organizations and mentored students in **HSC ICT**.
 
 ---
