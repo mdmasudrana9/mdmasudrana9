@@ -79,17 +79,6 @@ Book lending & giveaway platform
 **Tech:** Next.js, Redux, Express.js, MongoDB  
 📚 Smart search, lending tracking, reviews & ratings
 
----
-
-## 📊 GitHub Stats
-
-![Masud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmasudrana9&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mdmasudrana9&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmasudrana9&layout=compact&theme=tokyonight)
-
----
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/mdmasudrana9/mdmasudrana9/blob/output/github-contribution-grid-snake.svg)
