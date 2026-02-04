@@ -1,6 +1,8 @@
 
 <h1 align="center">
-  <h1 align="center">Md Masud Rana</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Md+Masud+Rana" alt="Typing SVG" />
+  </a>
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077b6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+%26+Next.js+Specialist;Prisma+%26+PostgreSQL+Expert;International+Remote+Developer" alt="Typing SVG" />
