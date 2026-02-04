@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=header&text=Md%20Masud%20Rana&fontSize=50&animation=fadeIn" alt="Md Masud Rana" />
-</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077b6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+%26+Next.js+Specialist;Prisma+%26+PostgreSQL+Expert;International+Remote+Developer" alt="Typing SVG" />
