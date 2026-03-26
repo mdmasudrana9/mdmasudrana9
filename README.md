@@ -50,6 +50,17 @@ I’m a **Full-Stack Developer** with strong computer science fundamentals and h
 
 ---
 
+## 🐍 Activity Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmasudrana9/mdmasudrana9/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">⭐ <i>Always learning. Always building.</i></p>
+
 ## 📊 My GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdmasudrana9&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -79,14 +90,3 @@ I’m a **Full-Stack Developer** with strong computer science fundamentals and h
 | **Pustok** | Old book marketplace with lending tracking. | Next.js, Express, MongoDB |
 
 ---
-
-## 🐍 Activity Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdmasudrana9/mdmasudrana9/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
-</p>
-
-<p align="center">⭐ <i>Always learning. Always building.</i></p>
