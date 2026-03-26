@@ -1,9 +1,9 @@
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Md+Masud+Rana" alt="Typing SVG" />
   </a>
 </h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077b6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+%26+Next.js+Specialist;Prisma+%26+PostgreSQL+Expert;International+Remote+Developer" alt="Typing SVG" />
 </p>
@@ -26,8 +26,7 @@
 ## 🚀 About Me
 I’m a **Full-Stack Developer** with strong computer science fundamentals and hands-on experience building scalable, secure, and high-performance web applications using modern technologies.
 
-- 💡 Worked with **international remote teams** (Singapore based).
--
+- 💡 Worked with **international remote teams** (Singapore based).  
 - 🎓 Led student organizations and mentored students in **HSC ICT**.
 
 ---
@@ -50,34 +49,22 @@ I’m a **Full-Stack Developer** with strong computer science fundamentals and h
 
 ---
 
-## 🐍 Activity Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdmasudrana9/mdmasudrana9/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
-</p>
-
-<p align="center">⭐ <i>Always learning. Always building.</i></p>
-
-## 📊 My GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdmasudrana9&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmasudrana9&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💼 Work Experience
 
-### **Junior Software Engineer** — *Softkarrot*
-📅 **Oct 2023 – May 2024** | Dhaka (Remote)
-- Built scalable full-stack solutions and optimized system architecture.
+### **Full Stack Developer** — *UNIPIXER*
+📅 **Feb 2025 – Present** | Barishal, Bangladesh (Onsite)  
+
+As a Full Stack Developer at UNIPIXER, I am developing scalable web applications using the MERN Stack, including React.js, Node.js, Express.js, and MongoDB, with PostgreSQL integration. I build and maintain RESTful APIs for web applications and third-party service integrations. I design and optimize database schemas in MongoDB and PostgreSQL to ensure high-performance applications. I implement secure authentication and authorization systems using JWT and modern security practices. Additionally, I optimize application performance, SEO, and responsive UI for an improved user experience across all devices. I collaborate with cross-functional teams to deliver maintainable, scalable, and production-ready web solutions.
 
 ### **Next.js React Developer** — *Nexstack*
-📅 **Jun 2024 – Jan 2025** | Singapore (Remote)
-- Developed maintainable Next.js apps for international clients.
+📅 **Jun 2024 – Jan 2025** | Singapore (Remote)  
+
+As a Next.js React Developer at Nexstack, I developed maintainable Next.js applications for international clients. I collaborated with remote teams to ensure code quality, scalability, and efficient delivery of production-ready web solutions.
+
+### **Junior Software Engineer** — *Softkarrot*
+📅 **Oct 2023 – May 2024** | Dhaka (Remote)  
+
+As a Junior Software Engineer at Softkarrot, I built scalable full-stack solutions and optimized system architecture. I contributed to both frontend and backend development, ensuring high performance and maintainable code for web applications.
 
 ---
 
@@ -90,3 +77,24 @@ I’m a **Full-Stack Developer** with strong computer science fundamentals and h
 | **Pustok** | Old book marketplace with lending tracking. | Next.js, Express, MongoDB |
 
 ---
+
+## 🐍 Activity Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdmasudrana9/mdmasudrana9/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdmasudrana9&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmasudrana9&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">⭐ <i>Always learning. Always building.</i></p>
